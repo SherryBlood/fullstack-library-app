@@ -51,8 +51,8 @@ To run this project in development mode:
 2. **Install dependencies:**
    - Install all necessary packages for both Frontend and Backend:
 
-   ```npm install
-
+   ```
+   npm install
    ```
 
 3. **Database Configuration:**
@@ -61,13 +61,13 @@ To run this project in development mode:
 4. **Run the Application:**
    - To launch the project with hot-reload for both Vite and Electron:
 
-   ```npm start
-
+   ```
+   npm start
    ```
 
 5. **Building the Portable EXE:**
    - To package the application into a single standalone file:
 
-   ```npm run dist
-
+   ```
+   npm run dist
    ```
